@@ -1,4 +1,4 @@
-:wave: Hi! My name is Sonya. I'm 19 years old.
+:wave: Hi! My name is Sonya.
 
 :computer: I'm a 2nd year student at SSU, specialising in mathematical support and administration of information systems.
 
